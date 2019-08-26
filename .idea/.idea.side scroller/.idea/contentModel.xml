@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sdbur\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sdbur\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sdbur\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_side scroller.1244787077.00" t="ExcludeRecursive" />
+    <e p="P:\unityprojects\side scroller" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PitchIncrease.cs" t="Include" />
+        <e p="scripts" t="Include">
+          <e p="ObstacleMover.cs" t="Include" />
+          <e p="ObstacleSpawner.cs" t="Include" />
+          <e p="PlayButton.cs" t="Include" />
+          <e p="PlayerScript.cs" t="Include" />
+          <e p="ScaleIncrease.cs" t="Include" />
+          <e p="SceneryMover.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="SpawnScenery.cs" t="Include" />
+        </e>
+        <e p="SoundEffectsScript.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="side scroller.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
